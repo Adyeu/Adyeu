@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=190&section=header&text=Adyeu&fontSize=58&fontColor=00D9FF&animation=fadeIn&fontAlignY=36&desc=Infrastructure%20%26%20DevOps%20Engineer&descAlignY=56&descSize=18&descColor=8892B0" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=560&lines=Self-hosted+infrastructure+%26+IaC;Proxmox+%C2%B7+Terraform+%C2%B7+Kubernetes;Systems+that+don't+depend+on+the+cloud" alt="Typing SVG" />
-</a>
+<img src="./banner.svg" width="100%"/>
 
 </div>
 
@@ -13,7 +9,7 @@
 ```bash
 $ whoami
 Abdou — Infrastructure & DevOps Engineer
-Based in Switzerland
+Based in Valais, Switzerland
 
 $ cat focus.txt
 Self-hosted infrastructure · Infrastructure-as-Code · homelab architecture
@@ -43,11 +39,20 @@ Running production-grade systems on personal hardware — no cloud dependency
 
 <div align="center">
 
-<a href="https://github.com/Adyeu/homelab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adyeu&repo=homelab&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=8892B0" />
-</a>
+<table>
+<tr>
+<td>
 
+**[Adyeu/homelab](https://github.com/Adyeu/homelab)**
 Terraform-managed Proxmox homelab — modular IaC across networking, storage, and a k3s cluster, with a self-hosted S3 backend for state.
+
+<a href="https://github.com/Adyeu/homelab/stargazers"><img src="https://img.shields.io/github/stars/Adyeu/homelab?style=flat-square&labelColor=0d1117&color=00D9FF" /></a>
+<a href="https://github.com/Adyeu/homelab/network/members"><img src="https://img.shields.io/github/forks/Adyeu/homelab?style=flat-square&labelColor=0d1117&color=00D9FF" /></a>
+<a href="https://github.com/Adyeu/homelab/commits/main"><img src="https://img.shields.io/github/last-commit/Adyeu/homelab?style=flat-square&labelColor=0d1117&color=00D9FF" /></a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -57,15 +62,13 @@ Terraform-managed Proxmox homelab — modular IaC across networking, storage, an
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Adyeu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=8892B0" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adyeu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=8892B0" width="34%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adyeu&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="60%" />
+![GitHub followers](https://img.shields.io/github/followers/Adyeu?style=for-the-badge&labelColor=0d1117&color=00D9FF)
+![Profile views](https://komarev.com/ghpvc/?username=Adyeu&style=for-the-badge&color=00D9FF&labelColor=0d1117&label=PROFILE+VIEWS)
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="./footer.svg" width="100%"/>
 
 </div>

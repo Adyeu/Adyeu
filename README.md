@@ -9,7 +9,7 @@
 ```bash
 $ whoami
 Abdou — Infrastructure & DevOps Engineer
-Based in Valais, Switzerland
+From Senegal / Based in Switzerland
 
 $ cat focus.txt
 Self-hosted infrastructure · Infrastructure-as-Code · homelab architecture
@@ -34,17 +34,6 @@ Running production-grade systems on personal hardware — no cloud dependency
 </div>
 
 <br/>
-
-### Featured project
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-**[Adyeu/homelab](https://github.com/Adyeu/homelab)**
-Terraform-managed Proxmox homelab — modular IaC across networking, storage, and a k3s cluster, with a self-hosted S3 backend for state.
 
 <a href="https://github.com/Adyeu/homelab/stargazers"><img src="https://img.shields.io/github/stars/Adyeu/homelab?style=flat-square&labelColor=0d1117&color=00D9FF" /></a>
 <a href="https://github.com/Adyeu/homelab/network/members"><img src="https://img.shields.io/github/forks/Adyeu/homelab?style=flat-square&labelColor=0d1117&color=00D9FF" /></a>

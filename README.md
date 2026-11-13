@@ -8,12 +8,10 @@
 
 ```bash
 $ whoami
-Abdou — Infrastructure & DevOps Engineer
-From Senegal / Based in Switzerland
+Abdou — Infrastructure Engineer
 
 $ cat focus.txt
-Self-hosted infrastructure · Infrastructure-as-Code · homelab architecture
-Running production-grade systems on personal hardware — no cloud dependency
+Infrastructure · IaC 
 ```
 
 <br/>
